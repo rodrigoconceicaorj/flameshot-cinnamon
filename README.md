@@ -51,4 +51,4 @@ rm ~/.config/autostart/flameshot.desktop
 
 **Dica:** Se não souber qual é sua distribuição, rode `lsb_release -a` no terminal.
 
-**Desenvolvido pela comunidade BitLinux**
+**Desenvolvido pela comunidade BiGLinux**
